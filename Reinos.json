@@ -1,0 +1,388 @@
+[
+  {
+    "Nombre_Reino": "Corona de Castilla",
+    "Peso": 4,
+    "Información": "Durante los siglos XIV y XV, Castilla es el reino de mayor extensión de la Península Ibérica y el que cuenta con una mayor influencia política y cultural. En su interior se engloban reinos antaño independientes, como el de León, el de Galicia o los viejos señoríos de taifas de Toledo y Murcia, entre otros, vinculados ahora todos ellos a la corona de Castilla, que durante el siglo XIII consigue expandir su territorio por todo el valle del Guadalquivir. Durante este periodo de tiempo, Castilla mantendrá la mayor parte del tiempo buenas relaciones con sus vecinos de Portugal y Navarra, pero no ocurrirá lo mismo con Aragón —con quien mantendrá frecuentes enfrentamientos hasta la firma del Compromiso de Caspe, en 1412, cuando se instaura una dinastía castellana en Aragón, la de los Trastámara—, o con Granada, que, a pesar de ser vasalla de Castilla, terminará finalmente siendo conquistada por ésta en 1492.",
+    "Pueblos": [
+      {
+        "Nombre_Pueblo": "Castellanos",
+        "Peso": 3,
+        "Información": "Se trata de los habitantes cristianos del reino de Castilla, que pueblan todo el territorio de la Meseta, el valle del Guadalquivir y el antiguo reino de Murcia. Gracias a las continuas políticas repobladoras de los reyes castellanos, son el pueblo más numeroso de la Península Ibérica, lo que ha llevado a imponer el castellano como lengua común en todos los reinos peninsulares de la Baja Edad Media.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "No pueden pertenecer a la clase social de Esclavo",
+        "Idiomas": [
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "100"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Gallegos",
+        "Peso": 2,
+        "Información": "Son los habitantes del antiguo reino de Galicia, comprendido actualmente dentro de la corona de Castilla, descendientes de las tribus celtas que habitaban los castros cuyas ruinas aún pueden visitarse en su territorio, y poseedores de una lengua propia procedente del latín.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "No pueden pertenecer a la clase social de Esclavo",
+        "Idiomas": [
+          {
+            "Idioma": "Gallego",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Vascos",
+        "Peso": 1,
+        "Información": "Habitantes de las zonas rurales al norte de la corona de Castilla —el señorío de Guipúzcoa— y del reino de Navarra, famosos por su ferocidad y su valor en el combate. Además de una lengua exclusiva, el euskera, los vascos poseen una cultura propia basada en viejos mitos prerromanos y ritos paganos casi olvidados, una cultura que la Iglesia intenta maquillar con símbolos y ceremoniales cristianos.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "Los vascos sólo pueden pertenecer a las clases sociales de Villano y Campesino.",
+        "Idiomas": [
+          {
+            "Idioma": "Euskera",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Asturleoneses",
+        "Peso": 1,
+        "Información": "Son los habitantes de los territorios pertenecientes al antiguo reino de León, incluyendo Asturias y parte de la zona cántabra. Los asturleoneses descienden en su mayor parte de antiguas familias visigodas y no se diferencian demasiado del pueblo castellano, excepto en el uso de un idioma romance propio, el bable.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "No pueden pertenecer a la clase social de Esclavo.",
+        "Idiomas": [
+          {
+            "Idioma": "Bable",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Mudéjares",
+        "Peso": 2,
+        "Información": "Los musulmanes que viven en los reinos cristianos durante la Edad Media reciben el nombre de mudéjares —del árabe mudaggan, que quiere decir “domesticado”, lo que demuestra la estima en que los tienen los habitantes del reino nazarí—. Existen comunidades mudéjares en la corona de Castilla —asentadas en los valles del Guadiana y del Guadalquivir—, en Aragón —especialmente en la zona del reino de Valencia— y en el reino de Portugal —numerosas en la zona meridional del reino y el Algarve—, y viven en barrios concretos de las ciudades denominados aljamas o morerías, donde tienen libertad para continuar practicando su religión, su lengua y sus costumbres, al menos hasta que la intransigencia y el fanatismo de los siglos XIV y XV termina obligándoles a bautizarse a finales del siglo XV, cuando pasan a ser llamados “moriscos”.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "No pueden pertenecer a la nobleza. Las profesiones de soldado, alguacil o de origen eclesiástico —monje, sacerdote y goliardo— les están vedadas.",
+        "Idiomas": [
+          {
+            "Idioma": "Andalusí",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Judíos",
+        "Peso": 1,
+        "Información": "El pueblo judío —o sefardita, si queremos ser más precisos— se encuentra extendido por toda la Península Ibérica y podemos encontrar juderías —o calls, como se las denomina en la corona de Aragón— en la mayor parte de las ciudades de los cinco reinos. En su interior los judíos asisten a las sinagogas y continúan practicando sus ritos y costumbres, pero la protección que se les otorgó durante los siglos anteriores va desapareciendo progresivamente a lo largo de los siglos XIV y XV, sucediéndose cada vez con mayor frecuencia las matanzas en las juderías, las conversiones forzosas y, finalmente, la orden de expulsión de los reinos de Castilla y Aragón en 1492.",
+        "Sociedad": "Judía",
+        "Restricciones": "Ninguna",
+        "Idiomas": [
+          {
+            "Idioma": "Ladino",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Hebreo",
+            "Porcentaje": "CULx2"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre_Reino": "Corona de Aragón",
+    "Peso": 2,
+    "Información": "Creada tras la unión en 1150 del reino de Aragón y el condado de Barcelona, la corona de Aragón de los siglos XIV y XV se había expandido ya por Valencia, Mallorca, Sicilia, Córcega, Cerdeña, Nápoles y, durante un breve periodo de tiempo, Atenas y Neopatria. Mucho más volcada al mar que su gran antagonista, Castilla —con quien mantendrá frecuentes disputas hasta la llegada al trono aragonés del rey castellano Fernando de Antequera en 1412—, la política de la corona de Aragón se centrará en el comercio marítimo y en la expansión del reino por el Mediterráneo. Con el matrimonio de los Reyes Católicos en 1469, Castilla y Aragón quedarán unidas, aunque hasta el reinado de Carlos I la unión no será completa y efectiva.",
+    "Pueblos": [
+      {
+        "Nombre_Pueblo": "Aragoneses",
+        "Peso": 4,
+        "Información": "Se trata de los habitantes cristianos del antiguo reino de Aragón, integrado ahora dentro de la corona de Aragón, descendientes de aquellos pueblos pirenaicos que repoblaron las tierras que se les arrebató a los musulmanes durante el primer periodo de la Reconquista. Poseen una lengua propia, el aragonés, procedente también del latín, que fue perdiéndose progresivamente tras la llegada al trono aragonés de una dinastía castellana en 1412.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "No pueden pertenecer a la clase social de Esclavo.",
+        "Idiomas": [
+          {
+            "Idioma": "Aragonés",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Catalanes",
+        "Peso": 4,
+        "Información": "Son los habitantes cristianos del principado de Cataluña, del reino de Valencia y del reino de Mallorca, integrados ahora en la corona de Aragón. Todos ellos comparten una lengua romance común, el catalán, aunque en Valencia y en Mallorca se utilizan dialectos diferentes —el valenciano y el balear respectivamente—.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "No pueden pertenecer a la clase social de Esclavo.",
+        "Idiomas": [
+          {
+            "Idioma": "Catalán",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Mudéjares",
+        "Peso": 1,
+        "Información": "Los musulmanes que viven en los reinos cristianos durante la Edad Media reciben el nombre de mudéjares —del árabe mudaggan, que quiere decir “domesticado”, lo que demuestra la estima en que los tienen los habitantes del reino nazarí—. Existen comunidades mudéjares en la corona de Castilla —asentadas en los valles del Guadiana y del Guadalquivir—, en Aragón —especialmente en la zona del reino de Valencia— y en el reino de Portugal —numerosas en la zona meridional del reino y el Algarve—, y viven en barrios concretos de las ciudades denominados aljamas o morerías, donde tienen libertad para continuar practicando su religión, su lengua y sus costumbres, al menos hasta que la intransigencia y el fanatismo de los siglos XIV y XV termina obligándoles a bautizarse a finales del siglo XV, cuando pasan a ser llamados “moriscos”.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "No pueden pertenecer a la nobleza. Las profesiones de soldado, alguacil o de origen eclesiástico —monje, sacerdote y goliardo— les están vedadas.",
+        "Idiomas": [
+          {
+            "Idioma": "Andalusí",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Aragonés",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Judíos",
+        "Peso": 1,
+        "Información": "El pueblo judío —o sefardita, si queremos ser más precisos— se encuentra extendido por toda la Península Ibérica y podemos encontrar juderías —o calls, como se las denomina en la corona de Aragón— en la mayor parte de las ciudades de los cinco reinos. En su interior los judíos asisten a las sinagogas y continúan practicando sus ritos y costumbres, pero la protección que se les otorgó durante los siglos anteriores va desapareciendo progresivamente a lo largo de los siglos XIV y XV, sucediéndose cada vez con mayor frecuencia las matanzas en las juderías, las conversiones forzosas y, finalmente, la orden de expulsión de los reinos de Castilla y Aragón en 1492.",
+        "Sociedad": "Judía",
+        "Restricciones": "Ninguna",
+        "Idiomas": [
+          {
+            "Idioma": "Ladino",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Hebreo",
+            "Porcentaje": "CULx2"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre_Reino": "Reino de Granada",
+    "Peso": 1,
+    "Información": "En 1238 Ibn Al-Ahmar funda el reino nazarí de Granada, convertido hasta su desaparición en 1492 en el último baluarte islámico de la Península Ibérica, heredero de los grandes emiratos y califatos de al-Ándalus. Durante todo este tiempo, y a pesar de las frecuentes luchas dinásticas que lo sacuden, el reino se mantiene gracias a las numerosas parias que pagan a los reyes castellanos y a los pactos que se firman con los benimerines del Magreb. A pesar de todo, el reino de Granada va perdiendo cada vez más territorio hasta que los Reyes Católicos, tras una larga campaña",
+    "Pueblos": [
+      {
+        "Nombre_Pueblo": "Árabe",
+        "Peso": 8,
+        "Información": "Hemos denominado, por comodidad, árabes a los habitantes musulmanes del reino de Granada, aunque la población se componía de una mayoría nashrí —o sea, árabes andalusíes descendientes del antiguo al-Ándalus— junto a bereberes del Magreb, ghulams turcos, africanos de los reinos de Ghana, Malí y Songhay y árabes verdaderos, procedentes de la península arábiga. Pertenecer a un grupo u otro de árabes no influye para nada en el ámbito de las reglas, así que el jugador es libre de escoger una etnia u otra.",
+        "Sociedad": "Islámica",
+        "Restricciones": "Ninguna",
+        "Idiomas": [
+          {
+            "Idioma": "Andalusí",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Árabe",
+            "Porcentaje": "CULx4"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Judíos",
+        "Peso": 1,
+        "Información": "El pueblo judío —o sefardita, si queremos ser más precisos— se encuentra extendido por toda la Península Ibérica y podemos encontrar juderías —o calls, como se las denomina en la corona de Aragón— en la mayor parte de las ciudades de los cinco reinos. En su interior los judíos asisten a las sinagogas y continúan practicando sus ritos y costumbres, pero la protección que se les otorgó durante los siglos anteriores va desapareciendo progresivamente a lo largo de los siglos XIV y XV, sucediéndose cada vez con mayor frecuencia las matanzas en las juderías, las conversiones forzosas y, finalmente, la orden de expulsión de los reinos de Castilla y Aragón en 1492.",
+        "Sociedad": "Judía",
+        "Restricciones": "Ninguna",
+        "Idiomas": [
+          {
+            "Idioma": "Ladino",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Hebreo",
+            "Porcentaje": "CULx2"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Mozábares",
+        "Peso": 1,
+        "Información": "Los cristianos que viven en el reino nazarí de Granada reciben el nombre de mozárabes —del árabe musta`rab, que quiere decir “arabizado”—, donde, a cambio del pago de varios impuestos y la aceptación de una clase social inferior, se les permite mantener sus costumbres y ritos, controlados, eso sí, por el sultán y con severas limitaciones. Utilizan una lengua propia, el mozárabe, construida sobre diferentes dialectos del romance y que, a diferencia de otros idiomas cristianos, no se escribe con caracteres latinos, sino arábigos.",
+        "Sociedad": "Islámica",
+        "Restricciones": "No pueden pertenecer a la nobleza. Las profesiones de soldado, derviche y ghazi les están vedadas. A cambio, pueden elegir en su lugar las de sacerdote y monje, pertenecientes a la sociedad cristiana.",
+        "Idiomas": [
+          {
+            "Idioma": "Mozárabe",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Andalusí",
+            "Porcentaje": "CULx4"
+          },
+          {
+            "Idioma": "Árabe",
+            "Porcentaje": "CULx2"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre_Reino": "Reino de Navarra",
+    "Peso": 1,
+    "Información": "Tras varios siglos de repartos territoriales con las coronas vecinas, el reino de Navarra es el más pequeño de todos los reinos peninsulares de la Baja Edad Media, y aunque durante este periodo de tiempo sea gobernada por dinastías de origen francés, mantendrá buenas relaciones con las coronas castellana y aragonesa, preocupadas cada una de que el reino no pase a formar parte de la corona enemiga. A mediados del XV, una cruenta guerra civil entre la facción de los beamonteses —apoyados por los castellanos— y la de los agramonteses —que reciben ayuda de los aragoneses— sacude todo el reino, conflicto que terminaría a comienzos del siglo XVI con la conquista por parte de Aragón del antiguo reino navarro.",
+    "Pueblos": [
+      {
+        "Nombre_Pueblo": "Navarros",
+        "Peso": 6,
+        "Información": "Son los habitantes cristianos del reino de Navarra, especialmente aquéllos que viven en las ciudades y en la zona meridional del reino —el norte y la costa están poblados por vascos—. En su mayor parte son descendientes de aragoneses y castellanos, con quienes comparten la lengua y buena parte de su historia.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "No pueden pertenecer a la clase social de Esclavo.",
+        "Idiomas": [
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Aragonés",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Vascos",
+        "Peso": 3,
+        "Información": "Habitantes de las zonas rurales al norte de la corona de Castilla —el señorío de Guipúzcoa— y del reino de Navarra, famosos por su ferocidad y su valor en el combate. Además de una lengua exclusiva, el euskera, los vascos poseen una cultura propia basada en viejos mitos prerromanos y ritos paganos casi olvidados, una cultura que la Iglesia intenta maquillar con símbolos y ceremoniales cristianos.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "Los vascos sólo pueden pertenecer a las clases sociales de Villano y Campesino.",
+        "Idiomas": [
+          {
+            "Idioma": "Euskera",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Judíos",
+        "Peso": 1,
+        "Información": "El pueblo judío —o sefardita, si queremos ser más precisos— se encuentra extendido por toda la Península Ibérica y podemos encontrar juderías —o calls, como se las denomina en la corona de Aragón— en la mayor parte de las ciudades de los cinco reinos. En su interior los judíos asisten a las sinagogas y continúan practicando sus ritos y costumbres, pero la protección que se les otorgó durante los siglos anteriores va desapareciendo progresivamente a lo largo de los siglos XIV y XV, sucediéndose cada vez con mayor frecuencia las matanzas en las juderías, las conversiones forzosas y, finalmente, la orden de expulsión de los reinos de Castilla y Aragón en 1492.",
+        "Sociedad": "Judía",
+        "Restricciones": "Ninguna",
+        "Idiomas": [
+          {
+            "Idioma": "Ladino",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Hebreo",
+            "Porcentaje": "CULx2"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre_Reino": "Reino de Portugal",
+    "Peso": 2,
+    "Información": "El antiguo condado portucalense ,perteneciente al reino de León y transformado oficialmente en reino de Portugal en 1139 bajo los auspicios de la casa de Borgoña, se adentra en el siglo XIV convertido en aliado de Castilla. Durante los dos siglos posteriores, las principales tareas que acomete Portugal son fortalecer su territorio y reforzar el poder de la corona frente al de los nobles, lo que no impedirá la ocupación castellana de 1371 para acabar con las pretensiones dinásticas de Fernando I de Portugal sobre la corona de Castilla, invasión que provocará la llegada al trono portugués de la dinastía de Avis, una alianza con Inglaterra y la victoria sobre Castilla, que permitirá a Portugal fortalecer aún más su poder en la Península e iniciar un periodo de expansión en ultramar que les llevará primero a África y, ya en el siglo XVI, a América y Asia.",
+    "Pueblos": [
+      {
+        "Nombre_Pueblo": "Portugueses",
+        "Peso": 6,
+        "Información": "Denominamos así a los habitantes cristianos del reino de Portugal, descendientes de los pueblos gallegos y leoneses que repoblaron aquellas zonas de al-Ándalus que les fueron conquistadas a los musulmanes. Comparten con los gallegos la lengua, el gallego o galaicoportugués, y aunque en Portugal se utiliza con un dialecto diferente, hemos decidido unificarlo en una misma competencia de idioma.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "No pueden pertenecer a la clase social de Esclavo",
+        "Idiomas": [
+          {
+            "Idioma": "Gallego",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Judíos",
+        "Peso": 2,
+        "Información": "El pueblo judío —o sefardita, si queremos ser más precisos— se encuentra extendido por toda la Península Ibérica y podemos encontrar juderías —o calls, como se las denomina en la corona de Aragón— en la mayor parte de las ciudades de los cinco reinos. En su interior los judíos asisten a las sinagogas y continúan practicando sus ritos y costumbres, pero la protección que se les otorgó durante los siglos anteriores va desapareciendo progresivamente a lo largo de los siglos XIV y XV, sucediéndose cada vez con mayor frecuencia las matanzas en las juderías, las conversiones forzosas y, finalmente, la orden de expulsión de los reinos de Castilla y Aragón en 1492.",
+        "Sociedad": "Judía",
+        "Restricciones": "Ninguna",
+        "Idiomas": [
+          {
+            "Idioma": "Ladino",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Hebreo",
+            "Porcentaje": "CULx2"
+          },
+          {
+            "Idioma": "Castellano",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      },
+      {
+        "Nombre_Pueblo": "Mudéjares",
+        "Peso": 2,
+        "Información": "Los musulmanes que viven en los reinos cristianos durante la Edad Media reciben el nombre de mudéjares —del árabe mudaggan, que quiere decir “domesticado”, lo que demuestra la estima en que los tienen los habitantes del reino nazarí—. Existen comunidades mudéjares en la corona de Castilla —asentadas en los valles del Guadiana y del Guadalquivir—, en Aragón —especialmente en la zona del reino de Valencia— y en el reino de Portugal —numerosas en la zona meridional del reino y el Algarve—, y viven en barrios concretos de las ciudades denominados aljamas o morerías, donde tienen libertad para continuar practicando su religión, su lengua y sus costumbres, al menos hasta que la intransigencia y el fanatismo de los siglos XIV y XV termina obligándoles a bautizarse a finales del siglo XV, cuando pasan a ser llamados “moriscos”.",
+        "Sociedad": "Cristiana",
+        "Restricciones": "No pueden pertenecer a la nobleza. Las profesiones de soldado, alguacil o de origen eclesiástico —monje, sacerdote y goliardo— les están vedadas.",
+        "Idiomas": [
+          {
+            "Idioma": "Andalusí",
+            "Porcentaje": "100"
+          },
+          {
+            "Idioma": "Gallego",
+            "Porcentaje": "CULx4"
+          }
+        ]
+      }
+    ]
+  }
+]
