@@ -1,195 +1,193 @@
 {
-    "Cristiano": [
-      {
-        "Nombre": "Alta Nobleza",
-        "Peso": 1,
-        "Descripción": "El escalafón más alto de la sociedad medieval, grandes propietarios de tierra instalados en castillos, ciudades o en la corte, donde aconsejan al rey sobre la política a seguir —cuando no lo controlan directamente—. Vuelve a tirar 1D10 para averiguar el título nobiliario que posee la familia del PJ, título que sólo heredará el personaje si sus padres mueren, es de sexo masculino y es además el primogénito de la familia. Si los padres siguen vivos, es mujer o no es el primogénito, sólo tendrá título de caballero (o dama para las mujeres).",
-        "Clasificación": [
-            {
-                "Nombre": "Duque/Duquesa",
-                "Peso": 1,
-                "Descripción": "Título nobiliario más alto que existe, sólo superado por la familia real. Recibe el tratamiento de Excelencia."
-            },
-            {
-                "Nombre": "Marqués/Marquesa",
-                "Peso": 1,
-                "Descripción": "Propietario de grandes zonas territoriales o marcas. Recibe el tratamiento de Ilustrísimo."
-            },
-            {
-                "Nombre": "Conde/Condesa",
-                "Peso": 2,
-                "Descripción": "Propietario de condados fronterizos. Recibe el tratamiento de Ilustrísimo."
-            },
-            {
-                "Nombre": "Vizconde/Vizcondesa",
-                "Peso": 3,
-                "Descripción": "Ejerce de sustituto del conde cuando éste no puede ocupar su cargo. Recibe el tratamiento de Ilustrísimo."
-            },
-            {
-                "Nombre": "Barón/Baronesa",
-                "Peso": 3,
-                "Descripción": "Propietario de pequeñas baronías, especialmente frecuentes en la corona de Aragón. Recibe el tratamiento de Ilustrísimo."
-            }
-
-        ] 
-      },
-      {
-        "Nombre": "Baja Nobleza",
-        "Peso": 1,
-        "Descripción": "Gentes ennoblecidas por el rey o por un noble en reconocimiento a sus méritos —sobre todo en el campo de batalla— o los hijos de nobles que no han heredado el título de su padre. Poseen todos los privilegios que supone pertenecer al estamento nobiliario, pero cuentan con muy pocas propiedades —a veces, ninguna—, por lo que suelen estar al servicio del rey o de otro noble más poderoso que ellos. Vuelve a tirar 1D10 para averiguar qué título posee la familia del PJ, que sólo podrá heredar el personaje cuando mueran sus padres, siempre y cuando sea varón y el primogénito de la familia. Si no se dan esos factores, el PJ sólo tendrá el título de hidalgo.",
-        "Clasificación":[
-            {
-                "Nombre": "Señor/Señora",
-                "Peso": 2,
-                "Descripción": "Dueño de un feudo que depende de una baronía o condado mayor."
-            },
-            {
-                "Nombre": "Caballero/Dama",
-                "Peso": 3,
-                "Descripción": "Noble que sirve a la casa real o a un noble poderoso —ya sea como guerrero o, en el caso de las mujeres, en el cuidado de los hijos y esposas— a cambio de una parcela de tierra, manutención o incluso dinero."
-            },
-            {
-                "Nombre": "Hidalgo",
-                "Peso": 5,
-                "Descripción": "Miembro inferior de la nobleza, sin apenas bienes, pero que está exento del pago de impuestos."
-            }
-        ]
-      },
-      {
-        "Nombre": "Burguesía",
-        "Peso": 2,
-        "Descripción": "Se consideran burgueses a todas aquellas personas que, sin pertenecer a la nobleza, han conseguido el suficiente grado de poder económico —en muchas ocasiones, mucho mayor que el de algunos nobles— como para imponer sus opiniones en la sociedad medieval, a pesar de no disfrutar de los privilegios de los estamentos superiores. Suelen residir en las mayores ciudades de los reinos.",
-        "Clasificación":[]
-      },
-      {
-        "Nombre": "Villanos",
-        "Peso": 2,
-        "Descripción": "Son todos aquellos plebeyos que residen en las ciudades, personas de condición humilde que no están al servicio de los nobles y que trabajan para ellos mismos o, en muchos casos, para algún rico burgués de la ciudad.",
-        "Clasificación":[]
-      },
-      {
-        "Nombre": "Campesinos",
-        "Peso": 3,
-        "Descripción": "La clase más baja de la sociedad medieval cristiana. Existen tres clases diferentes de campesinos, así que tira 1D10 para comprobar a cuál de ellas pertenece tu PJ",
-        "Clasificación":[
-            {
-                "Nombre": "Colono",
-                "Peso": 3,
-                "Descripción": "Es el campesino dueño de la tierra que trabaja."
-            },
-            {
-                "Nombre": "Vasallo",
-                "Peso": 6,
-                "Descripción": "Se trata del campesino que trabaja la tierra del señor feudal, quien le ofrece a cambio protección y una parte del producto obtenido."
-            },
-            {
-                "Nombre": "Siervos de la Gleba",
-                "Peso": 1,
-                "Descripción": "Es el campesino ligado de por vida a la tierra a la que trabaja. No puede abandonar el territorio sin el permiso expreso de su señor y es comprado y vendido con ella."
-            }
-        ]
-      },
-      {
-        "Nombre": "Esclavos",
-        "Peso": 1,
-        "Descripción": "Al igual que los musulmanes, también los reinos cristianos utilizan esclavos, en su mayor parte prisioneros de guerras infieles, ya que la Iglesia prohíbe esclavizar a otro cristiano. El esclavo es considerado propiedad de su señor al que, al menos legalmente, el personaje deberá obedecer. El señor será un PNJ controlado por el DJ u otro de los personajes jugadores si así lo designa el jugador o el DJ.",
-        "Clasificación":[]
-      }
-    ],
-    "Judío": [
-      {
-        "Nombre": "Burguesía",
-        "Peso": 4,
-        "Descripción": "Los judíos burgueses son aquéllos enriquecidos gracias a sus oficios o negocios y que pueden llegar a relacionarse con las grandes familias aristocráticas e incluso con el propio rey. Algunos de ellos ostentan cargos de verdadero poder en sus reinos.",
-        "Clasificación":[]
-      },
-      {
-        "Nombre": "Villanos",
-        "Peso": 6,
-        "Descripción": "Se trata de aquellos trabajadores judíos de carácter humilde que habitan en las juderías de las ciudades dedicándose a su profesión, habitualmente la artesanía, ya sea como profesional independiente o al servicio de un rico burgués.",
-        "Clasificación":[]
-      }
-    ],
-    "Islámico": [
-      {
-        "Nombre": "Alta Nobleza",
-        "Peso": 1,
-        "Descripción": "Al igual que ocurre en los reinos cristianos, el mundo islámico también posee estamentos aristocráticos, basados en su mayor parte en el linaje al que se pertenece y en el conocimiento de la tradición y la ley coránica, aunque muchos han sido desplazados por los descendientes de funcionarios y burócratas. Vuelve a tirar 1D10 para averiguar el título que posee la familia del PJ, ya que al igual que ocurre en la sociedad cristiana, el personaje sólo heredará el título si sus padres mueren, es de sexo masculino y es además el primogénito de la familia. Si los padres siguen vivos, es mujer o no es el primogénito, sólo se le considerará con el mismo rango que un sa´id.",
-        "Clasificación":[
-          {
-            "Nombre": "Sharif (Jerife)",
-            "Peso": 1,
-            "Descripción": "Se trata de los descendientes directos de Mahoma o miembros de alguna de las familias más poderosas del reino nazarí."
-          },
-          {
-            "Nombre": "Shayj (Jeque)",
-            "Peso": 2,
-            "Descripción": "Son los descendientes de los caudillos de las antiguas tribus árabes o respetados maestros en leyes y religión."
-          },
-          {
-            "Nombre": "Emir",
-            "Peso": 3,
-            "Descripción": "Título nobiliario que designa al gobernador de una provincia o de parte del ejército."
-          },
-          {
-            "Nombre": "Qadi (Cadí)",
-            "Peso": 4,
-            "Descripción": "Juez de la ley islámica (la Sharia) que también puede ejercer de gobernador de un distrito."
-          }
-        ]
-      },
-      {
-        "Nombre": "Baja Nobleza",
-        "Peso": 1,
-        "Descripción": "en la sociedad islámica también existen miembros de la clase nobiliaria que tienen poco más que el título de sus antepasados y muy escasas propiedades. Vuelve a tirar 1D10 para averiguar el título que posee la familia del PJ y que, al contrario de lo que ocurre en la Alta Nobleza, también ostenta tu personaje:",
-        "Clasificación":[
-          {
-            "Nombre": "Sa´id (Señor):",
-            "Peso": 3,
-            "Descripción": "Se trata de un descendiente de la vieja aristocracia tribal que suele poseer poco más que su título."
-          },
-          {
-            "Nombre": "Al-Barraz",
-            "Peso": 7,
-            "Descripción": "Es una especie de caballero islámico que lucha al servicio de su señor, especialmente en duelos en los que el honor del señor está en entredicho o antes de una batalla contra un campeón del bando contrario."
-          }
-        ]
-      },
-      {
-        "Nombre": "Mercaderes",
-        "Peso": 2,
-        "Descripción": "Son dueños de las grandes fortunas del reino nazarí, poderosos terratenientes emparentados con la vieja aristocracia tribal y la burocracia del sultán.",
-        "Clasificación":[]
-      },
-      {
-        "Nombre": "Ciudadanos",
-        "Peso": 2,
-        "Descripción": "Son los habitantes humildes de las ciudades granadinas que suelen ejercer los oficios de artesano y pequeño comerciante agrupados en gremios u oficios, como ocurre en los reinos cristianos.",
-        "Clasificación":[]
-      },
-      {
-        "Nombre": "Campesinos",
-        "Peso": 3,
-        "Descripción": "De forma parecida a la sociedad cristiana, los campesinos musulmanes rara vez son dueños de la tierra que trabajan, aunque las condiciones de vida que disfrutan suelen ser mejores en el reino nazarí.",
-        "Clasificación":[]
-      },
-      {
-        "Nombre": "Esclavos",
-        "Peso": 1,
-        "Descripción": "La clase más baja de la sociedad islámica; antiguos prisioneros de guerra o cautivos de África o del norte de Europa utilizados como mano de obra barata o guardaespaldas de su señor. Algunos de ellos son castrados en su niñez para convertirlos en eunucos, por los que se conseguía un alto precio en los mercados esclavistas del reino (si tu PJ es de sexo masculino tira 1D10: si obtienes un 9 o un 10, serás un eunuco). Los personajes que adquieran esta posición social deben tener en cuenta que se les considera propiedad privada de su señor al que, al menos legalmente, deberán obedecer. El señor será un PNJ controlado por el DJ u otro de los personajes jugadores si así lo designa el jugador o el DJ.",
-        "Clasificación":[
-          {
-            "Nombre": "Esclavo",
-            "Peso": 8,
-            "Descripción": "Eres de los pocos afortunados si se podría decor que si bien es esclava aún conservas tu hombría."
-          },
-          {
-            "Nombre": "Eunuco",
-            "Peso": 2,
-            "Descripción": "Fuiste castrado en tu niñez para servir a una joven noble o a tu amo."
-          }
-        ]
-      }
-    ]
-  }
-  
+  "Cristiano": [
+    {
+      "Nombre": "Alta Nobleza",
+      "Peso": 1,
+      "Descripción": "El escalafón más alto de la sociedad medieval, grandes propietarios de tierra instalados en castillos, ciudades o en la corte, donde aconsejan al rey sobre la política a seguir —cuando no lo controlan directamente—. Vuelve a tirar 1D10 para averiguar el título nobiliario que posee la familia del PJ, título que sólo heredará el personaje si sus padres mueren, es de sexo masculino y es además el primogénito de la familia. Si los padres siguen vivos, es mujer o no es el primogénito, sólo tendrá título de caballero (o dama para las mujeres).",
+      "Clasificación": [
+        {
+          "Nombre": "Duque/Duquesa",
+          "Peso": 1,
+          "Descripción": "Título nobiliario más alto que existe, sólo superado por la familia real. Recibe el tratamiento de Excelencia."
+        },
+        {
+          "Nombre": "Marqués/Marquesa",
+          "Peso": 1,
+          "Descripción": "Propietario de grandes zonas territoriales o marcas. Recibe el tratamiento de Ilustrísimo."
+        },
+        {
+          "Nombre": "Conde/Condesa",
+          "Peso": 2,
+          "Descripción": "Propietario de condados fronterizos. Recibe el tratamiento de Ilustrísimo."
+        },
+        {
+          "Nombre": "Vizconde/Vizcondesa",
+          "Peso": 3,
+          "Descripción": "Ejerce de sustituto del conde cuando éste no puede ocupar su cargo. Recibe el tratamiento de Ilustrísimo."
+        },
+        {
+          "Nombre": "Barón/Baronesa",
+          "Peso": 3,
+          "Descripción": "Propietario de pequeñas baronías, especialmente frecuentes en la corona de Aragón. Recibe el tratamiento de Ilustrísimo."
+        }
+      ]
+    },
+    {
+      "Nombre": "Baja Nobleza",
+      "Peso": 1,
+      "Descripción": "Gentes ennoblecidas por el rey o por un noble en reconocimiento a sus méritos —sobre todo en el campo de batalla— o los hijos de nobles que no han heredado el título de su padre. Poseen todos los privilegios que supone pertenecer al estamento nobiliario, pero cuentan con muy pocas propiedades —a veces, ninguna—, por lo que suelen estar al servicio del rey o de otro noble más poderoso que ellos. Vuelve a tirar 1D10 para averiguar qué título posee la familia del PJ, que sólo podrá heredar el personaje cuando mueran sus padres, siempre y cuando sea varón y el primogénito de la familia. Si no se dan esos factores, el PJ sólo tendrá el título de hidalgo.",
+      "Clasificación": [
+        {
+          "Nombre": "Señor/Señora",
+          "Peso": 2,
+          "Descripción": "Dueño de un feudo que depende de una baronía o condado mayor."
+        },
+        {
+          "Nombre": "Caballero/Dama",
+          "Peso": 3,
+          "Descripción": "Noble que sirve a la casa real o a un noble poderoso —ya sea como guerrero o, en el caso de las mujeres, en el cuidado de los hijos y esposas— a cambio de una parcela de tierra, manutención o incluso dinero."
+        },
+        {
+          "Nombre": "Hidalgo",
+          "Peso": 5,
+          "Descripción": "Miembro inferior de la nobleza, sin apenas bienes, pero que está exento del pago de impuestos."
+        }
+      ]
+    },
+    {
+      "Nombre": "Burguesía",
+      "Peso": 2,
+      "Descripción": "Se consideran burgueses a todas aquellas personas que, sin pertenecer a la nobleza, han conseguido el suficiente grado de poder económico —en muchas ocasiones, mucho mayor que el de algunos nobles— como para imponer sus opiniones en la sociedad medieval, a pesar de no disfrutar de los privilegios de los estamentos superiores. Suelen residir en las mayores ciudades de los reinos.",
+      "Clasificación": []
+    },
+    {
+      "Nombre": "Villanos",
+      "Peso": 2,
+      "Descripción": "Son todos aquellos plebeyos que residen en las ciudades, personas de condición humilde que no están al servicio de los nobles y que trabajan para ellos mismos o, en muchos casos, para algún rico burgués de la ciudad.",
+      "Clasificación": []
+    },
+    {
+      "Nombre": "Campesinos",
+      "Peso": 3,
+      "Descripción": "La clase más baja de la sociedad medieval cristiana. Existen tres clases diferentes de campesinos, así que tira 1D10 para comprobar a cuál de ellas pertenece tu PJ",
+      "Clasificación": [
+        {
+          "Nombre": "Colono",
+          "Peso": 3,
+          "Descripción": "Es el campesino dueño de la tierra que trabaja."
+        },
+        {
+          "Nombre": "Vasallo",
+          "Peso": 6,
+          "Descripción": "Se trata del campesino que trabaja la tierra del señor feudal, quien le ofrece a cambio protección y una parte del producto obtenido."
+        },
+        {
+          "Nombre": "Siervos de la Gleba",
+          "Peso": 1,
+          "Descripción": "Es el campesino ligado de por vida a la tierra a la que trabaja. No puede abandonar el territorio sin el permiso expreso de su señor y es comprado y vendido con ella."
+        }
+      ]
+    },
+    {
+      "Nombre": "Esclavos",
+      "Peso": 1,
+      "Descripción": "Al igual que los musulmanes, también los reinos cristianos utilizan esclavos, en su mayor parte prisioneros de guerras infieles, ya que la Iglesia prohíbe esclavizar a otro cristiano. El esclavo es considerado propiedad de su señor al que, al menos legalmente, el personaje deberá obedecer. El señor será un PNJ controlado por el DJ u otro de los personajes jugadores si así lo designa el jugador o el DJ.",
+      "Clasificación": []
+    }
+  ],
+  "Judío": [
+    {
+      "Nombre": "Burguesía",
+      "Peso": 4,
+      "Descripción": "Los judíos burgueses son aquéllos enriquecidos gracias a sus oficios o negocios y que pueden llegar a relacionarse con las grandes familias aristocráticas e incluso con el propio rey. Algunos de ellos ostentan cargos de verdadero poder en sus reinos.",
+      "Clasificación": []
+    },
+    {
+      "Nombre": "Villanos",
+      "Peso": 6,
+      "Descripción": "Se trata de aquellos trabajadores judíos de carácter humilde que habitan en las juderías de las ciudades dedicándose a su profesión, habitualmente la artesanía, ya sea como profesional independiente o al servicio de un rico burgués.",
+      "Clasificación": []
+    }
+  ],
+  "Islámico": [
+    {
+      "Nombre": "Alta Nobleza",
+      "Peso": 1,
+      "Descripción": "Al igual que ocurre en los reinos cristianos, el mundo islámico también posee estamentos aristocráticos, basados en su mayor parte en el linaje al que se pertenece y en el conocimiento de la tradición y la ley coránica, aunque muchos han sido desplazados por los descendientes de funcionarios y burócratas. Vuelve a tirar 1D10 para averiguar el título que posee la familia del PJ, ya que al igual que ocurre en la sociedad cristiana, el personaje sólo heredará el título si sus padres mueren, es de sexo masculino y es además el primogénito de la familia. Si los padres siguen vivos, es mujer o no es el primogénito, sólo se le considerará con el mismo rango que un sa´id.",
+      "Clasificación": [
+        {
+          "Nombre": "Sharif (Jerife)",
+          "Peso": 1,
+          "Descripción": "Se trata de los descendientes directos de Mahoma o miembros de alguna de las familias más poderosas del reino nazarí."
+        },
+        {
+          "Nombre": "Shayj (Jeque)",
+          "Peso": 2,
+          "Descripción": "Son los descendientes de los caudillos de las antiguas tribus árabes o respetados maestros en leyes y religión."
+        },
+        {
+          "Nombre": "Emir",
+          "Peso": 3,
+          "Descripción": "Título nobiliario que designa al gobernador de una provincia o de parte del ejército."
+        },
+        {
+          "Nombre": "Qadi (Cadí)",
+          "Peso": 4,
+          "Descripción": "Juez de la ley islámica (la Sharia) que también puede ejercer de gobernador de un distrito."
+        }
+      ]
+    },
+    {
+      "Nombre": "Baja Nobleza",
+      "Peso": 1,
+      "Descripción": "en la sociedad islámica también existen miembros de la clase nobiliaria que tienen poco más que el título de sus antepasados y muy escasas propiedades. Vuelve a tirar 1D10 para averiguar el título que posee la familia del PJ y que, al contrario de lo que ocurre en la Alta Nobleza, también ostenta tu personaje:",
+      "Clasificación": [
+        {
+          "Nombre": "Sa´id (Señor):",
+          "Peso": 3,
+          "Descripción": "Se trata de un descendiente de la vieja aristocracia tribal que suele poseer poco más que su título."
+        },
+        {
+          "Nombre": "Al-Barraz",
+          "Peso": 7,
+          "Descripción": "Es una especie de caballero islámico que lucha al servicio de su señor, especialmente en duelos en los que el honor del señor está en entredicho o antes de una batalla contra un campeón del bando contrario."
+        }
+      ]
+    },
+    {
+      "Nombre": "Mercaderes",
+      "Peso": 2,
+      "Descripción": "Son dueños de las grandes fortunas del reino nazarí, poderosos terratenientes emparentados con la vieja aristocracia tribal y la burocracia del sultán.",
+      "Clasificación": []
+    },
+    {
+      "Nombre": "Ciudadanos",
+      "Peso": 2,
+      "Descripción": "Son los habitantes humildes de las ciudades granadinas que suelen ejercer los oficios de artesano y pequeño comerciante agrupados en gremios u oficios, como ocurre en los reinos cristianos.",
+      "Clasificación": []
+    },
+    {
+      "Nombre": "Campesinos",
+      "Peso": 3,
+      "Descripción": "De forma parecida a la sociedad cristiana, los campesinos musulmanes rara vez son dueños de la tierra que trabajan, aunque las condiciones de vida que disfrutan suelen ser mejores en el reino nazarí.",
+      "Clasificación": []
+    },
+    {
+      "Nombre": "Esclavos",
+      "Peso": 1,
+      "Descripción": "La clase más baja de la sociedad islámica; antiguos prisioneros de guerra o cautivos de África o del norte de Europa utilizados como mano de obra barata o guardaespaldas de su señor. Algunos de ellos son castrados en su niñez para convertirlos en eunucos, por los que se conseguía un alto precio en los mercados esclavistas del reino (si tu PJ es de sexo masculino tira 1D10: si obtienes un 9 o un 10, serás un eunuco). Los personajes que adquieran esta posición social deben tener en cuenta que se les considera propiedad privada de su señor al que, al menos legalmente, deberán obedecer. El señor será un PNJ controlado por el DJ u otro de los personajes jugadores si así lo designa el jugador o el DJ.",
+      "Clasificación": [
+        {
+          "Nombre": "Esclavo",
+          "Peso": 8,
+          "Descripción": "Eres de los pocos afortunados si se podría decor que si bien es esclava aún conservas tu hombría."
+        },
+        {
+          "Nombre": "Eunuco",
+          "Peso": 2,
+          "Descripción": "Fuiste castrado en tu niñez para servir a una joven noble o a tu amo."
+        }
+      ]
+    }
+  ]
+}
