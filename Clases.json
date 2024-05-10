@@ -96,7 +96,22 @@
         "Clasificación":[]
       }
     ],
-    "Judío": [],
-    "Islámico": []
+    "Judío": [
+      {
+        "Nombre": "Burguesía",
+        "Peso": 4,
+        "Descripción": "Los judíos burgueses son aquéllos enriquecidos gracias a sus oficios o negocios y que pueden llegar a relacionarse con las grandes familias aristocráticas e incluso con el propio rey. Algunos de ellos ostentan cargos de verdadero poder en sus reinos.",
+        "Clasificación":[]
+      },
+      {
+        "Nombre": "Villanos",
+        "Peso": 4,
+        "Descripción": "Se trata de aquellos trabajadores judíos de carácter humilde que habitan en las juderías de las ciudades dedicándose a su profesión, habitualmente la artesanía, ya sea como profesional independiente o al servicio de un rico burgués.",
+        "Clasificación":[]
+      }
+    ],
+    "Islámico": [
+      
+    ]
   }
   
