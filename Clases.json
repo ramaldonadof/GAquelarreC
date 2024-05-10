@@ -105,13 +105,91 @@
       },
       {
         "Nombre": "Villanos",
-        "Peso": 4,
+        "Peso": 6,
         "Descripción": "Se trata de aquellos trabajadores judíos de carácter humilde que habitan en las juderías de las ciudades dedicándose a su profesión, habitualmente la artesanía, ya sea como profesional independiente o al servicio de un rico burgués.",
         "Clasificación":[]
       }
     ],
     "Islámico": [
-      
+      {
+        "Nombre": "Alta Nobleza",
+        "Peso": 1,
+        "Descripción": "Al igual que ocurre en los reinos cristianos, el mundo islámico también posee estamentos aristocráticos, basados en su mayor parte en el linaje al que se pertenece y en el conocimiento de la tradición y la ley coránica, aunque muchos han sido desplazados por los descendientes de funcionarios y burócratas. Vuelve a tirar 1D10 para averiguar el título que posee la familia del PJ, ya que al igual que ocurre en la sociedad cristiana, el personaje sólo heredará el título si sus padres mueren, es de sexo masculino y es además el primogénito de la familia. Si los padres siguen vivos, es mujer o no es el primogénito, sólo se le considerará con el mismo rango que un sa´id.",
+        "Clasificación":[
+          {
+            "Nombre": "Sharif (Jerife)",
+            "Peso": 1,
+            "Descripción": "Se trata de los descendientes directos de Mahoma o miembros de alguna de las familias más poderosas del reino nazarí."
+          },
+          {
+            "Nombre": "Shayj (Jeque)",
+            "Peso": 2,
+            "Descripción": "Son los descendientes de los caudillos de las antiguas tribus árabes o respetados maestros en leyes y religión."
+          },
+          {
+            "Nombre": "Emir",
+            "Peso": 3,
+            "Descripción": "Título nobiliario que designa al gobernador de una provincia o de parte del ejército."
+          },
+          {
+            "Nombre": "Qadi (Cadí)",
+            "Peso": 4,
+            "Descripción": "Juez de la ley islámica (la Sharia) que también puede ejercer de gobernador de un distrito."
+          }
+        ]
+      },
+      {
+        "Nombre": "Baja Nobleza",
+        "Peso": 1,
+        "Descripción": "en la sociedad islámica también existen miembros de la clase nobiliaria que tienen poco más que el título de sus antepasados y muy escasas propiedades. Vuelve a tirar 1D10 para averiguar el título que posee la familia del PJ y que, al contrario de lo que ocurre en la Alta Nobleza, también ostenta tu personaje:",
+        "Clasificación":[
+          {
+            "Nombre": "Sa´id (Señor):",
+            "Peso": 3,
+            "Descripción": "Se trata de un descendiente de la vieja aristocracia tribal que suele poseer poco más que su título."
+          },
+          {
+            "Nombre": "Al-Barraz",
+            "Peso": 7,
+            "Descripción": "Es una especie de caballero islámico que lucha al servicio de su señor, especialmente en duelos en los que el honor del señor está en entredicho o antes de una batalla contra un campeón del bando contrario."
+          }
+        ]
+      },
+      {
+        "Nombre": "Mercaderes",
+        "Peso": 2,
+        "Descripción": "Son dueños de las grandes fortunas del reino nazarí, poderosos terratenientes emparentados con la vieja aristocracia tribal y la burocracia del sultán.",
+        "Clasificación":[]
+      },
+      {
+        "Nombre": "Ciudadanos",
+        "Peso": 2,
+        "Descripción": "Son los habitantes humildes de las ciudades granadinas que suelen ejercer los oficios de artesano y pequeño comerciante agrupados en gremios u oficios, como ocurre en los reinos cristianos.",
+        "Clasificación":[]
+      },
+      {
+        "Nombre": "Campesinos",
+        "Peso": 3,
+        "Descripción": "De forma parecida a la sociedad cristiana, los campesinos musulmanes rara vez son dueños de la tierra que trabajan, aunque las condiciones de vida que disfrutan suelen ser mejores en el reino nazarí.",
+        "Clasificación":[]
+      },
+      {
+        "Nombre": "Esclavos",
+        "Peso": 1,
+        "Descripción": "La clase más baja de la sociedad islámica; antiguos prisioneros de guerra o cautivos de África o del norte de Europa utilizados como mano de obra barata o guardaespaldas de su señor. Algunos de ellos son castrados en su niñez para convertirlos en eunucos, por los que se conseguía un alto precio en los mercados esclavistas del reino (si tu PJ es de sexo masculino tira 1D10: si obtienes un 9 o un 10, serás un eunuco). Los personajes que adquieran esta posición social deben tener en cuenta que se les considera propiedad privada de su señor al que, al menos legalmente, deberán obedecer. El señor será un PNJ controlado por el DJ u otro de los personajes jugadores si así lo designa el jugador o el DJ.",
+        "Clasificación":[
+          {
+            "Nombre": "Esclavo",
+            "Peso": 8,
+            "Descripción": "Eres de los pocos afortunados si se podría decor que si bien es esclava aún conservas tu hombría."
+          },
+          {
+            "Nombre": "Eunuco",
+            "Peso": 2,
+            "Descripción": "Fuiste castrado en tu niñez para servir a una joven noble o a tu amo."
+          }
+        ]
+      }
     ]
   }
   
